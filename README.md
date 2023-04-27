@@ -30,7 +30,7 @@ The Arduino uses [rosserial](http://wiki.ros.org/rosserial) to provide topics to
 For digitizing the load cell values [Phidget 4-Input Bridges](https://www.phidgets.com/?tier=3&catid=98&pcid=78&prodid=1027) are used. A suitable ROS package is provided [here](http://wiki.ros.org/phidgets_drivers). It publishes the values to individual topics.
 
 # Setup
-As a reference, the whole System is provided as step file in full_robot.stp. It includes screws and bought parts. The Modules_and_BOM.pdf provides some info on assembly and required materials.   
+As a reference, the whole System is provided as step file in full_robot.stp. It includes screws and bought parts. The `Modules_and_BOM.pdf` provides some info on assembly and required materials.   
 
 # Paper
 The paper describing this work is currently under review. As soon as it is publish info will be update here
