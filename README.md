@@ -39,7 +39,7 @@ The paper describing this work is currently under review. As soon as it is publi
 Contributers of this work are
 * Felix Buck
 * Thomas Scherr
-* Maximilian Themistocli
+* [Maximilian Themistocli](https://github.com/Maxcode28)
 
 It is maintained by Christian Marzi. The files are licensed und CERN Open Hardware Licence Version 2, see `LICENSE` for details
 
