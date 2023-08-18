@@ -33,7 +33,8 @@ For digitizing the load cell values [Phidget 4-Input Bridges](https://www.phidge
 As a reference, the whole System is provided as step file in full_robot.stp. It includes screws and bought parts. The `Modules_and_BOM.pdf` provides some info on assembly and required materials.   
 
 # Paper
-The paper describing this work is currently under review. As soon as it is publish info will be update here
+The paper describing the presented robot is published [here](https://www.degruyter.com/document/doi/10.1515/auto-2023-0066/html). When using this work please cite: 
+Marzi, Christian, Buck, Felix and Mathis-Ullrich, Franziska. *"Continuum robot actuation by a single motor per antagonistic tendon pair: workspace and repeatability analysis"* at - Automatisierungstechnik, vol. 71, no. 7, 2023, pp. 528-536. https://doi.org/10.1515/auto-2023-0066
 
 # Authors
 Contributers of this work are
